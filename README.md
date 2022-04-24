@@ -2,9 +2,9 @@
 
 Christopher Thompson
 
-Email: thompson.christopher.c@gmail.com
+[Email](mailto:thompson.christopher.c@gmail.com)
 
-LinkedIn: https://linkedin.com/in/ccthomps
+[LinkedIn](https://linkedin.com/in/ccthomps)
 
 Resume: Coming Soon
 

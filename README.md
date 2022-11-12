@@ -11,6 +11,7 @@ Christopher Thompson
 | Project | Description |
 | :------ | :---------- |
 | [cct-tools](https://github.com/pele1410/cct-tools) | Collection of config files I use and system configuration for new machines |
+| [cct-help](https://github.com/pele1410/cct-help) | Collection of links, tips, documents I've found useful at some point in my career |
 
 # What I've Done
 

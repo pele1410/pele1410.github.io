@@ -49,7 +49,6 @@ Christopher Thompson
 
 ### WeatherHawk myMet-Sport iOS Application
 
-[www.weatherhawk.com/mymet-sport](www.weatherhawk.com/mymet-sport)<br />
 Developed the application myMet-Sport which reads wind speeds from an anemometer attached to an iOS device’s 3mm headphone jack and displays the data to the user.
 
 ### UEI Air Flow iOS Application
@@ -66,22 +65,18 @@ Currently developing the application myBlue-T/H which reads temperature and humi
 
 ### WeatherSnoop iPhone Application
 
-[www.weathersnoop.com](www.weathersnoop.com)<br />
 Developed a front-end of the WeatherSnoop Mac application which takes weather related information from a WeatherSnoop server or a Weather Underground station and displays it to the user.
 
 ### Benji Buddy iPhone Application
 
-www.benjibuddy.com (No longer active)<br />
 Took over development of the iPhone application Benji Buddy that used Department of Defense data to predict the debt a student would accumulate in his desired college and desired major.
 
 ### iCuju, Soccer Guru iPhone Application
 
-www.icuju.com (No longer active)<br />
 Developed the application iCuju, Soccer Guru as a side project with two partners.  The application is table driven and allows the user to view diagrams and details of drills to coach his team while at practice.
 
 ### FestiGoGo iPhone Application
 
-www.festigogo.com (No longer active)<br />
 Worked on the development of Festigogo, an application that displays information for various festivals around the country.  The application would retrieve the information as XML files from the server and populate the tables and images.  It allowed the user to login and store a customized schedule for a particular festival.
 
 # Education

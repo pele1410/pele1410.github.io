@@ -54,16 +54,18 @@ Christopher Thompson
 ## General Philosophies
 
 > It is on men that safety at sea depends and they cannot make a greater mistake than to suppose that machines can do all their work for them
-> > ~Mr. Justice Cairns, 1967
+>
+> ~Mr. Justice Cairns, 1967
 
 It is my job to prove this man wrong.
 
 ### Asking Questions
 
-Many people, especially junior developers, fear that they'll look stupid if they ask questions. My general response to that is... " Get over it" . If you don't ask questions, you won't get answers, and that will be worse in the long run.
+Many people, especially junior developers, fear that they'll look stupid if they ask questions. My general response to that is... <i>Get over it</i> . If you don't ask questions, you won't get answers and that will be worse in the long run.
 
 > It's better to ask questions and look stupid now than not ask questions and remain ignorant forever"
-> > ~somebody on the internet.
+>
+> ~somebody on the internet.
 
 ### Doing something bad is usually better than doing nothing at all
 Seems counterintuitive, but atleast trying something and failing will be better in the long run than never trying. You can learn from mistakes, you can't learn from doing nothing.

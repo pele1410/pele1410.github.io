@@ -26,6 +26,10 @@ Christopher Thompson
 
 [Press Release](https://www.l3harris.com/newsroom/press-release/2020/08/l3harris-technologies-awarded-medium-unmanned-surface-vehicle)<br />
 
+### Sea Train
+
+[Press Release](https://www.nationaldefensemagazine.org/articles/2020/11/2/darpa-awards-contracts-for-autonomous-sea-train)
+
 ### C-Tug 3
 
 [Press Release](https://www.l3harris.com/newsroom/trade-release/2021/06/l3harris-technologies-delivers-first-unmanned-vehicle-oil-spill)<br />

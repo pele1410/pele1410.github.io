@@ -22,10 +22,6 @@ Christopher Thompson
 [Brochure](https://www.l3harris.com/all-capabilities/asview-control-system)<br />
 [Marketing Video](https://player.vimeo.com/video/716403154?autoplay=1&autopause=1&api=1)
 
-### MUSV
-
-[Press Release](https://www.l3harris.com/newsroom/press-release/2020/08/l3harris-technologies-awarded-medium-unmanned-surface-vehicle)<br />
-
 ### Sea Train
 
 [Press Release](https://www.nationaldefensemagazine.org/articles/2020/11/2/darpa-awards-contracts-for-autonomous-sea-train)

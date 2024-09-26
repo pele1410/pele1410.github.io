@@ -4,7 +4,7 @@ Christopher Thompson
 
 [thompson.christopher.c@gmail.com](mailto:thompson.christopher.c@gmail.com)<br />
 [LinkedIn](https://linkedin.com/in/ccthomps)<br />
-[Resume](https://drive.google.com/file/d/12QT6hc0NwSlL2_Ohb8hSVl3WUAY6Phhj/view?usp=drive_link)<br />
+[Resume](https://drive.google.com/file/d/1C_WlaIqdEmAHzzStaPuXSCYj3bkLfr72/view?usp=drive_link)<br />
 
 # Current Projects
 
